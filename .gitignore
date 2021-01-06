@@ -33,6 +33,7 @@ dist
 bundles/*/*.d.ts
 out
 packages/**/index.d.ts
+.cache
 
 # jetBrains IDE ignores
 .idea
